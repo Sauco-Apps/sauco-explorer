@@ -39,7 +39,7 @@ app.orders = new utils.orders(config, client);
 
 app.set('version', '0.3');
 app.set('strict routing', true);
-app.set('shift address', `http://${config.shift.host}:${config.shift.port}`);
+app.set('sauco address', `http://${config.shift.host}:${config.shift.port}`);
 app.set('freegeoip address', `http://${config.freegeoip.host}:${config.freegeoip.port}`);
 app.set('exchange enabled', config.exchangeRates.enabled);
 
