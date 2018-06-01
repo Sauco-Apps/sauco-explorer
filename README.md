@@ -58,7 +58,7 @@ Clone the Shift Explorer Repository:
 
 ```
 git clone https://github.com/Sauco-Apps/sauco-explorer.git
-cd shift-explorer
+cd sauco-explorer
 npm install
 ```
 
@@ -135,7 +135,7 @@ After the process is started its runtime status and log location can be found by
 
 To stop Explorer after it has been started with `PM2`, issue the following command:
 
-`pm2 stop shift-explorer`
+`pm2 stop sauco-explorer`
 
 ## Tests
 
