@@ -18,7 +18,7 @@ config.shift.port = 4000;
  * FreeGeoIP server
  */
 config.freegeoip.host = '127.0.0.1';
-config.freegeoip.port = 9090;
+config.freegeoip.port = 8080;
 
 /**
  * Redis server
