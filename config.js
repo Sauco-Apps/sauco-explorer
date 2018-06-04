@@ -11,7 +11,7 @@ config.port = 6040; // Port to listen on
 /**
  * SAUCO node
  */
-config.shift.host = '127.0.0.1';
+config.shift.host = '35.237.46.178';
 config.shift.port = 4000;
 
 /**
